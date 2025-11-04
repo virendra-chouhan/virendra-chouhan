@@ -4,15 +4,22 @@
 
 ---
 
-### 💼 About Me
-I'm a DevOps Engineer passionate about building scalable, automated, and cloud-native systems.  
-I specialize in CI/CD, Kubernetes orchestration, AWS cloud services, and infrastructure automation using Terraform.
+### 🧑‍💻 About Me
+- 🌐 Building and managing cloud-native infrastructure on **AWS**
+- ⚙️ Automating deployments and scaling using **Terraform** and **Kubernetes**
+- 🔄 CI/CD expert using **Jenkins**, **GitHub Actions**, and **Docker**
+- 📈 Always exploring **DevOps best practices** and **cost-optimized architectures**
 
 💡 I enjoy improving deployment efficiency, system reliability, and monitoring automation for modern cloud environments.
 
----
-
-### ⚙️ Tech Stack
+### 🧰 Tech Stack
+![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins)
+![ECS](https://img.shields.io/badge/AWS%20ECS-blueviolet)
+![EKS](https://img.shields.io/badge/AWS%20EKS-blueviolet)
 
 #### ☁️ Cloud & Infrastructure
 AWS • ECS • EKS • EC2 • S3 • CloudWatch • Lambda  
