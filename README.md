@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Virendra Chouhan
 
-<!--
-**virendra-chouhan/virendra-chouhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **DevOps Engineer | Cloud & Automation Specialist | 5+ Years of Experience**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 About Me
+I'm a DevOps Engineer passionate about building scalable, automated, and cloud-native systems.  
+I specialize in CI/CD, Kubernetes orchestration, AWS cloud services, and infrastructure automation using Terraform.
+
+💡 I enjoy improving deployment efficiency, system reliability, and monitoring automation for modern cloud environments.
+
+---
+
+### ⚙️ Tech Stack
+
+#### ☁️ Cloud & Infrastructure
+AWS • ECS • EKS • EC2 • S3 • CloudWatch • Lambda  
+
+#### 🧱 DevOps Tools
+Docker • Kubernetes • Jenkins • Terraform • Ansible • GitHub Actions  
+
+#### 🧰 Monitoring & Logging
+Prometheus • Grafana • ELK Stack  
+
+#### 💻 Scripting & OS
+Linux • Bash • Python • Shell Scripting  
+
+### 📫 Connect with Me
+
+- **Email:** [virendrachouhan1494@gmail.com](mailto:virendrachouhan1494@gmail.com)  
+- **GitHub Portfolio:** [Virednra Chouhan](https://github.com/virendra-chouhan/virendra-chouhan)
+
+---
+
+### 🏆 Badges & Tools
+
+---
+
+### 📈 GitHub Stats
+
+
+### 💬 Motto
+
