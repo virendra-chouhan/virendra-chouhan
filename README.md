@@ -11,7 +11,7 @@ I’m passionate about building **production-ready applications** and **scalable
 
 - 🔭 Currently working on **cloud-native solutions**, **AI-powered automation**, and **DevOps/Platform engineering**  
 - 🌱 Always learning about **emerging technologies** and **best practices**  
-- 👯 Looking to collaborate on **open-source projects** and **DevOps initiatives**  
+- 👯 Looking to collaborate on **projects** and **DevOps initiatives**  
 - 💬 Ask me about **Python**, **Cloud Architecture**, **DevOps**, and **Platform Engineering**  
 
 💡 I enjoy improving **deployment efficiency**, **system reliability**, and **monitoring automation** for modern cloud environments.
