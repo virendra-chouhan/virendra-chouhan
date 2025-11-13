@@ -1,10 +1,15 @@
 # 👋 Hi, I'm Virendra Chouhan
 
 🚀 **DevOps Engineer | Cloud & Automation Specialist | 5+ Years of Experience**
-
+I'm a DevOps Engineer, and Platform Engineering from 🇮🇳 India, with 8+ years of professional experience in both onsite and remote environments. I'm passionate about building production-ready applications and scalable cloud infrastructure.
 ---
 
 ### 🧑‍💻 About Me
+🔭 Currently working on cloud-native solutions, Artificial Intelligence solutions and DevOps/Platform engineering
+🌱 Always learning about emerging technologies and best practices
+👯 Looking to collaborate on open-source projects and DevOps initiatives
+💬 Ask me about Python, Cloud Architecture, DevOps, and Platform Engineering
+---
 - 🌐 Building and managing cloud-native infrastructure on **AWS**
 - ⚙️ Automating deployments and scaling using **Terraform** and **Kubernetes**
 - 🔄 CI/CD expert using **Jenkins**, **GitHub Actions**, and **Docker**
