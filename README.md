@@ -6,10 +6,10 @@ I'm a DevOps Engineer, and Platform Engineering from 🇮🇳 India, with 5+ yea
 ---
 
 ### 🧑‍💻 About Me
-**🔭 Currently working on cloud-native solutions, Artificial Intelligence solutions and DevOps/Platform engineering
-🌱 Always learning about emerging technologies and best practices
-👯 Looking to collaborate on open-source projects and DevOps initiatives
-💬 Ask me about Python, Cloud Architecture, DevOps, and Platform Engineering**
+**🔭 Currently working on cloud-native solutions, Artificial Intelligence solutions and DevOps/Platform engineering**
+**🌱 Always learning about emerging technologies and best practices**
+**👯 Looking to collaborate on open-source projects and DevOps initiatives**
+**💬 Ask me about Python, Cloud Architecture, DevOps, and Platform Engineering******
 ---
 - 🌐 Building and managing cloud-native infrastructure on **AWS**
 - ⚙️ Automating deployments and scaling using **Terraform** and **Kubernetes**
